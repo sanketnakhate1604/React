@@ -23,7 +23,7 @@ export default function App() {
       logo: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
     },
     {
-      company: "Dribbble",
+      company: "Flipkart",
       role: "Senior Motion Designer",
       time: "18 days ago",
       tags: ["Contract", "Remote"],
